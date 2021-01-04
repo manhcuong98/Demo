@@ -1,4 +1,4 @@
 function demo () {
-    return
+    this.name = name;
 }
 module.exports =demo ;
